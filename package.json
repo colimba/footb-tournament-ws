@@ -1,0 +1,12 @@
+{
+  "name": "footb-tournament-ws",
+  "version": "1.0.0",
+  "description": "API Rest de gestion de campeonatos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "author": "UTN Students",
+  "license": "ISC"
+}
