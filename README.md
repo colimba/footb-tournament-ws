@@ -3,7 +3,7 @@ API para gestionar los campeonatos de la aplicación **_FOOT-BOOKING_**
 
 ## Levantando el server
 **Con perfil de desarrollo:** ```npm run dev```
-El String de coneccion lo encontramos en _variables.env_
+El String de coneccion lo encontramos en _variables.env_ y por defecto el server se levanta localmente en el puerto 8080, de querer modificarlo hay que editar la constante _PORT_ del archivo _index.js_
 
 **Con perfil productivo:** ```npm run start```
 
