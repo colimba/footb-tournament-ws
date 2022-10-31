@@ -1,5 +1,5 @@
 # footb-tournament-ws
-PROVE OF CONCEPT (POC) de nueva API para gestionar los campeonatos de la aplicación **_FOOT-BOOKING_**
+**PROVE OF CONCEPT (POC)** de nueva API para gestionar los campeonatos de la aplicación **_FOOT-BOOKING_**
 
 ## Levantando el server
 **Con perfil de desarrollo:** ```npm run dev```
